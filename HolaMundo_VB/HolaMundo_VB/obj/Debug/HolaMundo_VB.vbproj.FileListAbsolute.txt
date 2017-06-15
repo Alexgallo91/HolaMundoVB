@@ -1,0 +1,11 @@
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\bin\Debug\HolaMundo_VB.exe.config
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\bin\Debug\HolaMundo_VB.exe
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\bin\Debug\HolaMundo_VB.pdb
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\bin\Debug\HolaMundo_VB.xml
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.vbprojResolveAssemblyReference.cache
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.HelloUser.resources
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.Resources.resources
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.vbproj.GenerateResource.Cache
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.exe
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.xml
+c:\users\fsociety91\documents\visual studio 2017\Projects\HolaMundo_VB\HolaMundo_VB\obj\Debug\HolaMundo_VB.pdb
